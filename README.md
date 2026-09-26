@@ -44,7 +44,7 @@ the modules with an environment or policy trainer.
 
 ## Attribution and Anonymous Review
 
-The source originated in an MIT-licensed POW-QMIX/PyMARL2 codebase. Its
-required upstream copyright notice is retained in `LICENSE`. That attribution
-is not an assertion of the submitting authors' identity. See
+The source originated in an MIT-licensed POW-QMIX/PyMARL2 codebase. The
+required MIT permission and disclaimer text are retained in `LICENSE`; no
+author or institution identity is included in this release. See
 `ANONYMITY_CHECKLIST.md` before publishing this directory.
